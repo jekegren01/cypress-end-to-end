@@ -10,6 +10,6 @@ describe('testing math util functions', () => {
     })
 
     it('console shows hello world', () => {
-        expect(hello().to.equal('Hello World')
+        expect(hello()).to.equal('Hello World')
     })
 })
